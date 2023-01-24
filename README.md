@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafsa Binte Hamid</h1>
+<h1 align="center">*Hi 👋, I'm Hafsa Binte Hamid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 This is an OOP Lab repository
