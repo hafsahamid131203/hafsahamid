@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hafsa Binte Hamid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **BUBT IT Club**
+This is an OOP Lab repository
+
+Name : Hafsa Binte Hamid
+
+ID : 22234103125
+
+Intake : 50
+
+Section :07- 🔭 I’m currently working on **BUBT IT Club**
 
 - 🌱 I’m currently learning **C++//OOP, Data entry**
 
